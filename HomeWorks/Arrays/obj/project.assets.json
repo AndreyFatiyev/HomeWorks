@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\DOCUMENT\\HomeWorks\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Lessons\\HomeWorks\\HomeWorks\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "C:\\Users\\User\\Desktop\\DOCUMENT\\HomeWorks\\Arrays\\Arrays.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Lessons\\HomeWorks\\HomeWorks\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\DOCUMENT\\HomeWorks\\Arrays\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Lessons\\HomeWorks\\HomeWorks\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
