@@ -11,15 +11,18 @@ namespace Task3
             {
                 try {
                     int n;
-                    Console.WriteLine($"Zapiwite dlinu massiva : ");
+                    Console.WriteLine($"enter the length of the array : ");
                     n = Convert.ToInt32(Console.ReadLine());
+
                     int[] arr = new int[n];
 
-                    // Инициализация массива и вывод на экран .
+                    // Инициализация массива и вывод инициализации на экран .
                     for (int i = 0; i < arr.Length; i++)
                     {
-                        Console.WriteLine($"Zapiwite 4islo massive : {i}");
+
+                        Console.WriteLine($"write down the array number : {i}");
                         arr[i] = Convert.ToInt32(Console.ReadLine());
+
                     }
 
                     Console.Clear();

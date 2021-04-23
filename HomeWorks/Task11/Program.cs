@@ -5,7 +5,7 @@ namespace Task11
     class Program
     {
         static void Main(string[] args)
-        {
+        {//11.Написать программу, которая будет спрашивать имя и возраст двух человек
 
             bool isName = true;
             string name1="";

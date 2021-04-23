@@ -13,14 +13,14 @@ namespace Task8
                 try 
                 {
                     int n;
-                    Console.WriteLine($"Enter Array Lenght : ");
+                    Console.WriteLine($"enter the length of the array : ");
                     n = Convert.ToInt32(Console.ReadLine());
                     int[] arr = new int[n];
 
                     // Инициализация массива и вывод на экран .
                     for (int i = 0; i < arr.Length; i++)
                     {
-                        Console.WriteLine($"Enter Elements of Array : {i}");
+                        Console.WriteLine($"write down the array number : {i}");
                         arr[i] = Convert.ToInt32(Console.ReadLine());
                     }
 

@@ -5,7 +5,7 @@ namespace Task10
     class Program
     {
         static void Main(string[] args)
-        {
+        {//10. Заполнить массив из 20 элементов числами Фибоначчи и вывести егона экран (Fk = Fk-1 + Fk-2). Первые два числа - 0, 1.
             int[] arr = new int[20];
             arr[0] = 0;
             arr[1] = 1;
