@@ -1,0 +1,12 @@
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\bin\Debug\netcoreapp3.1\cSharpBase.exe
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\bin\Debug\netcoreapp3.1\cSharpBase.deps.json
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\bin\Debug\netcoreapp3.1\cSharpBase.runtimeconfig.json
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\bin\Debug\netcoreapp3.1\cSharpBase.runtimeconfig.dev.json
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\bin\Debug\netcoreapp3.1\cSharpBase.dll
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\bin\Debug\netcoreapp3.1\cSharpBase.pdb
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\obj\Debug\netcoreapp3.1\cSharpBase.AssemblyInfoInputs.cache
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\obj\Debug\netcoreapp3.1\cSharpBase.AssemblyInfo.cs
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\obj\Debug\netcoreapp3.1\cSharpBase.csproj.CoreCompileInputs.cache
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\obj\Debug\netcoreapp3.1\cSharpBase.dll
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\obj\Debug\netcoreapp3.1\cSharpBase.pdb
+C:\Users\99450\source\repos\Arrays\HomeWorks\Arrays\obj\Debug\netcoreapp3.1\cSharpBase.genruntimeconfig.cache
