@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Task101
+namespace Task10
 {
-    class Task10
+    class Program
     {
         static void Main(string[] args)
         {
